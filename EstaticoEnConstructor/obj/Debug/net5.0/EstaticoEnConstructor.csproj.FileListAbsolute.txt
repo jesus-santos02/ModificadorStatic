@@ -1,0 +1,16 @@
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\bin\Debug\net5.0\EstaticoEnConstructor.exe
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\bin\Debug\net5.0\EstaticoEnConstructor.deps.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\bin\Debug\net5.0\EstaticoEnConstructor.runtimeconfig.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\bin\Debug\net5.0\EstaticoEnConstructor.runtimeconfig.dev.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\bin\Debug\net5.0\EstaticoEnConstructor.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\bin\Debug\net5.0\ref\EstaticoEnConstructor.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\bin\Debug\net5.0\EstaticoEnConstructor.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.csprojAssemblyReference.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.AssemblyInfoInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.AssemblyInfo.cs
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.csproj.CoreCompileInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\ref\EstaticoEnConstructor.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\EstaticoEnConstructor\obj\Debug\net5.0\EstaticoEnConstructor.genruntimeconfig.cache

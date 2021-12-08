@@ -1,0 +1,16 @@
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.csprojAssemblyReference.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.AssemblyInfoInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.AssemblyInfo.cs
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.csproj.CoreCompileInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\bin\Debug\net5.0\MetodoEstatico.exe
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\bin\Debug\net5.0\MetodoEstatico.deps.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\bin\Debug\net5.0\MetodoEstatico.runtimeconfig.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\bin\Debug\net5.0\MetodoEstatico.runtimeconfig.dev.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\bin\Debug\net5.0\MetodoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\bin\Debug\net5.0\ref\MetodoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\bin\Debug\net5.0\MetodoEstatico.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\ref\MetodoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\MetodoEstatico\obj\Debug\net5.0\MetodoEstatico.genruntimeconfig.cache

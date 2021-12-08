@@ -1,0 +1,16 @@
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.csprojAssemblyReference.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.AssemblyInfoInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.AssemblyInfo.cs
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.csproj.CoreCompileInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\bin\Debug\net5.0\DatoEstatico.exe
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\bin\Debug\net5.0\DatoEstatico.deps.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\bin\Debug\net5.0\DatoEstatico.runtimeconfig.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\bin\Debug\net5.0\DatoEstatico.runtimeconfig.dev.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\bin\Debug\net5.0\DatoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\bin\Debug\net5.0\ref\DatoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\bin\Debug\net5.0\DatoEstatico.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\ref\DatoEstatico.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\DatoEstatico\obj\Debug\net5.0\DatoEstatico.genruntimeconfig.cache

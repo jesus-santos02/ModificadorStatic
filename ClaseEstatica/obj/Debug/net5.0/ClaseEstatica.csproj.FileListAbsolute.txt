@@ -1,0 +1,16 @@
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.csprojAssemblyReference.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.AssemblyInfoInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.AssemblyInfo.cs
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\bin\Debug\net5.0\ClaseEstatica.exe
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\bin\Debug\net5.0\ClaseEstatica.deps.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\bin\Debug\net5.0\ClaseEstatica.runtimeconfig.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\bin\Debug\net5.0\ClaseEstatica.runtimeconfig.dev.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\bin\Debug\net5.0\ClaseEstatica.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\bin\Debug\net5.0\ref\ClaseEstatica.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\bin\Debug\net5.0\ClaseEstatica.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ref\ClaseEstatica.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\PROYECTO\ModificadorStatic\ClaseEstatica\obj\Debug\net5.0\ClaseEstatica.genruntimeconfig.cache
